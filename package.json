@@ -16,7 +16,7 @@
     "react-scripts": "3.4.0",
     "uuid": "^7.0.2"
   },
-  "homepage": "https://ivanng2014.github.io/react-todo",
+  "homepage": "https://covid19info.netlify.com/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
